@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tiexocun.github.io/sitemap/sitemap.txt
